@@ -49,5 +49,5 @@ async def on_message(message):
     elif 'bofa' in message.content.lower():
         await message.channel.send('bofa deez nuts')
         
-client.run('OTM0MzU5MzM5OTg3MjQ3MTA1.Yeu78g.RPOmtkboYH9s0sPF4FPGru-KSzw')
+client.run('PROCESS.ENV.THEKEY')
 diagnostics and repair 
